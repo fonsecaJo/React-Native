@@ -99,7 +99,7 @@ android {
     namespace "com.moengage.sampleapp"
 
     defaultConfig {
-        applicationId "com.moengage.sampleapp"
+        applicationId "com.tillster.bk_co.localhost"
         minSdk rootProject.ext.minSdkVersion
         targetSdk rootProject.ext.targetSdkVersion
         versionCode 1

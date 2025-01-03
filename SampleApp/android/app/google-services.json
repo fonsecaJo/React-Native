@@ -1,39 +1,159 @@
 {
   "project_info": {
-    "project_number": "xxxxxxxxxxxx",
-    "firebase_url": "https://moesampleapp.firebaseio.com",
-    "project_id": "moesampleapp",
-    "storage_bucket": "moesampleapp.appspot.com"
+    "project_number": "992021846876",
+    "project_id": "bk-co-mobile-dev",
+    "storage_bucket": "bk-co-mobile-dev.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:xxxxxxxxxxxx:android:6d75bcba72eb0cc3",
+        "mobilesdk_app_id": "1:992021846876:android:10b3d3241441e049833f99",
         "android_client_info": {
-          "package_name": "com.moengage.sampleapp"
+          "package_name": "com.emn8.bk_co_mobile"
         }
       },
       "oauth_client": [
         {
-          "client_id": "xxxxxxxxxxxx-t44jadhvvl6rbquccpmcuftu4a7obfui.apps.googleusercontent.com",
+          "client_id": "992021846876-m8vvcpc4r5dgid5sh3fqfm41iv77vton.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emn8.bk_co_mobile",
+            "certificate_hash": "360d08abe64a8d063b7012307092f0c679704175"
+          }
+        },
+        {
+          "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+          "current_key": "AIzaSyDDmTpAk2PRZcHdfaB_gSlk3CdvWzIPW-Y"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992021846876-0qn1jg5q2mipd1v71f1mq0n66f1dcrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillster.bk-co.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992021846876:android:e26eae8daf5ecd6a833f99",
+        "android_client_info": {
+          "package_name": "com.tillster.TxpConsumerNative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDmTpAk2PRZcHdfaB_gSlk3CdvWzIPW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992021846876-0qn1jg5q2mipd1v71f1mq0n66f1dcrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillster.bk-co.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992021846876:android:05232bab0561fd94833f99",
+        "android_client_info": {
+          "package_name": "com.tillster.bk_co.localhost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDmTpAk2PRZcHdfaB_gSlk3CdvWzIPW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992021846876-0qn1jg5q2mipd1v71f1mq0n66f1dcrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillster.bk-co.dev"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992021846876:android:2e1b3159f2d00b08833f99",
+        "android_client_info": {
+          "package_name": "com.tillster.bk_co.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDmTpAk2PRZcHdfaB_gSlk3CdvWzIPW-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992021846876-3mpu4oifdav06q4dc58k1178ifpopqtv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "992021846876-0qn1jg5q2mipd1v71f1mq0n66f1dcrpe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tillster.bk-co.dev"
+              }
+            }
+          ]
         }
       }
     }

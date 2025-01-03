@@ -80,7 +80,7 @@ public class MainApplication extends Application implements ReactApplication {
     }
     // replace DataCenter.DATA_CENTER_1 with your data center.
     MoEngage.Builder moEngage =
-        new MoEngage.Builder(this, BuildConfig.MOENAGE_APP_ID, DataCenter.DATA_CENTER_1)
+        new MoEngage.Builder(this, BuildConfig.MOENAGE_APP_ID, DataCenter.DATA_CENTER_4)
             .configureLogs(new LogConfig(LogLevel.VERBOSE, true))
             .configureNotificationMetaData(
                 new NotificationConfig(
